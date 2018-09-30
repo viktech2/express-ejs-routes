@@ -1,6 +1,6 @@
 # Express with EJS example
 
-1. Well defined structre
+1. Well defined structure
 2. Common route file
 3. Clean setup
 4. Views separate folder
